@@ -1,0 +1,1 @@
+ip_src,ip_dst,src_port,dst_port,icmp_type,icmp_code,protocolo_17,protocolo_6
